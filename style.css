@@ -30,3 +30,29 @@ h1{
 .about-second{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
+}
+.recipie-name h1{
+    text-align: center;
+}
+.recipie-name p{
+    text-align: center;
+}
+.recipie-list{
+    width: 27.33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 15px;
+    border-radius: 12px;
+    box-shadow: 15px 15px 20px gray;
+}
+
+
+.nevy{
+    color: navy;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
